@@ -1,0 +1,7 @@
+name: sLoja
+main: me.soldado.loja.Main
+version: 1.3
+commands:
+   lojagui:
+      description: Comando base do plugin de Lojas!.
+      usage: /<command>
